@@ -1,8 +1,4 @@
-
-
 @import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@600&display=swap');
-
-
 body{background-color: black;}
 .titulo{ color: whitesmoke;}
 .text {
@@ -46,11 +42,6 @@ body{background-color: black;}
 
 .container-fluid{
   font-family: 'Inconsolata', monospace;;
-}
-
-.navbar-nav{
-  font-family: 'Inconsolata', monospace;
-  font-size: 30px;
 }
 
 .linea{

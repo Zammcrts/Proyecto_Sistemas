@@ -1,12 +1,19 @@
 @import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@600&display=swap');
-body{background-color: black;}
+body{
+    background-color: #000000;
+    background-repeat: no-repeat;
+    font-family: 'Inconsolata', monospace;
+   }
 .yomero{ 
     align-items: center;
     justify-content: center;
     font-family: 'Inconsolata', monospace;;
     font-size: 150px;
     color: white;
-    background-color: black;}
+    background-color: black;
+    padding: 10px
+    }
+    
 
 .layout {
     
@@ -25,6 +32,7 @@ body{background-color: black;}
     font-family: 'Inconsolata', monospace;;
     font-size: 25px;
     color: white;
+    padding: 10px
 }
 
 .foto{
@@ -49,6 +57,7 @@ body{background-color: black;}
     font-family: 'Inconsolata', monospace;;
     font-size: 25px;
     color: white;  
+    padding: 10px
 }
 
 .hab{
@@ -59,6 +68,7 @@ body{background-color: black;}
     font-family: 'Inconsolata', monospace;;
     font-size: 25px;
     color: white;
+    padding: 10px
 }
 .rb{
     background-color: #070707;
@@ -66,12 +76,8 @@ body{background-color: black;}
     align-items: center;
     justify-content: center;    
 }
-.navbar-nav{
-    font-family: 'Inconsolata', monospace;
-    font-size: 30px;
-  }
 
-  .linea{
+.linea{
     border-top: 5px solid #ffffff;
     margin-bottom: 40px;
   }
